@@ -1,0 +1,26 @@
+{
+  "name": "exltractor",
+  "version": "1.0.0",
+  "description": "extract xmls files to database applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lourencomcviana/exltractor.git"
+  },
+  "keywords": [
+    "xmls",
+    "extract"
+  ],
+  "author": "Lourenço Viana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lourencomcviana/exltractor/issues"
+  },
+  "homepage": "https://github.com/lourencomcviana/exltractor#readme",
+  "dependencies": {
+    "xlsx": "^0.9.9"
+  }
+}
